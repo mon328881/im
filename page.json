@@ -1,6 +1,6 @@
 {
-    "versionCode": 3,
-    "versionName": "2.0.1",
+    "versionCode": 4,
+    "versionName": "2.1.0",
     "apkUrl": "/android.apk",
     "changelog": "1. 修复若干问题\n2. 优化体验",
     "force": false
