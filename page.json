@@ -1,6 +1,6 @@
 {
-    "versionCode": 6,
-    "versionName": "2.2.2",
+    "versionCode": 7,
+    "versionName": "2.2.5",
     "apkUrl": "/android.apk",
     "changelog": "1. 修改界面，优化各个功能\n2. 增加IOS端，并优化体验",
     "force": false
