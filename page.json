@@ -1,6 +1,6 @@
 {
-    "versionCode": 10,
-    "versionName": "2.2.8",
+    "versionCode": 11,
+    "versionName": "2.2.9",
     "apkUrl": "/android.apk",
     "changelog": "1. 修复定位问题\n2. 修复图片选择和增加朋友圈图片点击放大",
     "force": false
